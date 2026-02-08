@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://image2url.com/r2/default/gifs/1769655727935-2cfee738-a0bc-42dd-bcea-e1a335f33e84.gif
+https://image2url.com/r2/default/gifs/1770559081323-b0ba0e38-b7ec-409e-95b5-36c09a3d23a6.gif
 
 <img src='https://image2url.com/r2/default/gifs/1769655727935-2cfee738-a0bc-42dd-bcea-e1a335f33e84.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
